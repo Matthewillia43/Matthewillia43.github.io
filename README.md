@@ -5,6 +5,13 @@
 ##### Heading 5
 ###### Heading 6
 
+.btn{
+display:inline-block;
+background:#ddd;
+padding:6px;
+}
+span{
+
 Using two asterisks **this text is bold**.  
 Two underscores __work as well__.  
 Let's make it *italic now*.  
